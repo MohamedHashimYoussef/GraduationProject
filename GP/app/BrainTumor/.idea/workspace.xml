@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e56bcc6-39ab-4a34-972b-dc95a6f4d3ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/configs/tensorflow" />
+  </component>
+  <component name="ProjectId" id="1XcyfxYYl723VTC1Yl6KhDxgbRH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Wrath\Desktop\MLProject\scripts\featureextractors" />
+      <recent name="C:\Users\Wrath\Desktop\MLProject\scripts" />
+      <recent name="C:\Users\Wrath\Desktop\MLProject\scripts\filters" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
+      <module name="MLProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Wrath\.conda\envs\tensor\pythonw.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e56bcc6-39ab-4a34-972b-dc95a6f4d3ce" name="Default Changelist" comment="" />
+      <created>1581359785074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581359785074</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="42" key="#Inspections" timestamp="1581418582382">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="42" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1581418582382" />
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582106439673">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1582106439673" />
+    <state x="450" y="187" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581359841410">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="450" y="187" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1581359841410" />
+    <state x="402" y="10" key="#main" timestamp="1581429039513">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="402" y="10" key="#main/0.0.1366.768@0.0.1366.768" timestamp="1581429039513" />
+    <state x="462" y="138" key="FileChooserDialogImpl" timestamp="1582446248725">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="462" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1582446248725" />
+    <state width="1345" height="272" key="GridCell.Tab.0.bottom" timestamp="1582889680319">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="272" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1582889680319" />
+    <state width="1345" height="272" key="GridCell.Tab.0.center" timestamp="1582889680319">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="272" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1582889680319" />
+    <state width="1345" height="272" key="GridCell.Tab.0.left" timestamp="1582889680318">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="272" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1582889680318" />
+    <state width="1345" height="272" key="GridCell.Tab.0.right" timestamp="1582889680319">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="272" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1582889680319" />
+    <state x="184" y="26" key="SettingsEditor" timestamp="1581424330579">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1581424330579" />
+    <state x="384" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1582446129641">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="384" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1582446129641" />
+    <state x="339" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581427671404">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.768@0.0.1366.768" timestamp="1581427671404" />
+    <state x="424" y="27" key="refactoring.ChangeSignatureDialog" timestamp="1581441855425">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="424" y="27" key="refactoring.ChangeSignatureDialog/0.0.1366.768@0.0.1366.768" timestamp="1581441855425" />
+  </component>
+</project>
